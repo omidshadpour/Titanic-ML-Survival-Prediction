@@ -20,7 +20,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/omidshadpour/Titanic-Survival-Prediction.git
+git clone https://github.com/omidshadpour/Titanic-ML-Survival-Prediction.git
 
 Install dependencies:
 
